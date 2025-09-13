@@ -8,13 +8,15 @@ and this project tries to adhere to [Semantic Versioning](https://semver.org/spe
 ## [Unreleased]
 NA
 
-## [0.0.4] - 2025-09-14
+## [0.0.5] - 2025-09-14
+### Added
+- Added main belt template to book.
 
+## [0.0.4] - 2025-09-14
 ### Changed
 - Improved reactor design, now stable at max power consumption.
 
 ## [0.0.3] - 2025-09-01
-
 ### Added
 - Blue belt version of new smelter design.
 - x4 and x8 lane blueprints for new smelter design.
@@ -28,13 +30,9 @@ NA
 - Added missing power poles to new smelter design.
 
 ## [0.0.2] - 2025-08-31
-
 ### Added
-
 - New electric smelter design implimented
 
 ## [0.0.1] - 2025-08-31
-
 ### Added
-
 - Initial Blueprint created in factorio
