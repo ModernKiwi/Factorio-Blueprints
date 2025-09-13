@@ -8,6 +8,10 @@ and this project tries to adhere to [Semantic Versioning](https://semver.org/spe
 ## [Unreleased]
 NA
 
+## [0.0.6] - 2025-09-14
+### Fixed
+- Missing modules in x4 and x8 smelter blueprints.
+
 ## [0.0.5] - 2025-09-14
 ### Added
 - Added main belt template to book.
